@@ -1,6 +1,6 @@
 """
 Covid-19 test kiti 
-author @seho
+author @noah
 """
 import time 
 while True:
